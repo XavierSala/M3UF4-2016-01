@@ -10,7 +10,7 @@ Activitat
 -------------------
 Trobar la seqüència més llarga d'una cadena de caràcters (variable) 
 
-Desenvolupeu un programa que donat un String qualsevol us diu quina és la seqüència de lletres repetides més llarga i quina lletra és
+Desenvolupeu un programa que donat un String qualsevol us diu quina és la quantitat de lletres repetides més llarga i quina lletra és:
 
     abaaadbbe  → a:3
     abbadcaab  → b:2
