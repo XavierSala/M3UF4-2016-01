@@ -1,3 +1,5 @@
+#FpExperiencies #DawMp03Uf01 #DawMp03Uf02 #Programació
+
 La seqüència repetida més llarga
 =================================================
 En una cadena aleatòria, o no, de caràcters a vegades hi ha algun caràcter que es repeteix diverses vegades.
