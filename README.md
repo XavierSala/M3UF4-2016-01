@@ -1,4 +1,4 @@
-#FpExperiencies #DawMp03Uf01 #DawMp03Uf02 #Programació
+#FpInfor #DawMp03Uf01 #DawMp03Uf02 #Programació
 
 La seqüència repetida més llarga
 =================================================
